@@ -1,0 +1,7 @@
+pyrogram==2.0.106
+requests==2.31.0
+dnspython==2.4.2
+tgcrypto==1.2.5
+asyncio==3.4.3
+openai==0.28.1
+bardapi==0.1.38
