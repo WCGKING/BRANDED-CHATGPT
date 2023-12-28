@@ -67,8 +67,8 @@ MAIN = [
         InlineKeyboardButton(text=" ʜᴇʟᴘ & ᴄᴍᴅs ", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="☆ ʜᴇʀᴏᴋᴜ ☆", url=f"https://t.me/BRANDED_PAID_CC),
-        InlineKeyboardButton(text="☆ ᴏᴡɴᴇʀ ☆", url=f"https://t.me/BRANDEDKING82),
+        InlineKeyboardButton(text="☆ ʜᴇʀᴏᴋᴜ ☆", url=f"https://t.me/BRANDED_PAID_CC"),
+        InlineKeyboardButton(text="☆ ᴏᴡɴᴇʀ ☆", url=f"https://t.me/BRANDEDKING82"),
     ],
 ]
 X = [
