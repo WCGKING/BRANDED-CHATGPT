@@ -27,15 +27,18 @@ BRANDED = Client(
 )
 START = f"""
 ๏ ʜᴇʏ, ɪ ᴀᴍ {BOT_NAME}
+
 ➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ
 ★ ɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜsᴛɪᴏɴ ᴇᴀsɪʟʏ
 
-──────────────────
-ɪ ᴀᴍ ᴀᴅᴠᴀɴᴄᴇ ʙᴏᴛ ᴀɴᴅ ᴄᴀɴ 
-ᴀɴsᴡᴇʀ ʏᴏᴜʀ ᴏ̨ᴜᴇʀɪᴇs ᴇᴀsʟɪʏ
+─────────────────
 
-Rᴇᴀᴅ Tʜᴇ ʜᴇʟᴘ sᴇᴄᴛɪᴏɴ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏ
+➻ ɪ ᴀᴍ ᴀᴅᴠᴀɴᴄᴇ ʙᴏᴛ ᴀɴᴅ ᴄᴀɴ 
+★ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ᴏ̨ᴜᴇʀɪᴇs ᴇᴀsʟɪʏ
 
+✮ Rᴇᴀᴅ Tʜᴇ ʜᴇʟᴘ sᴇᴄᴛɪᴏɴ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏ
+
+★ ᴘʀᴏᴍᴏᴛᴇ ʙʏ : [ʙʀᴀɴᴅᴇᴅ ꜱᴜᴘᴘᴏʀᴛ](https://t.me/BRANDED_WORLD)
 ๏ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ ᴜsᴇ /help
 """
 xa = bytearray.fromhex("68747470733a2f2f6769746875622e636f6d2f444158585445414d2f4441585843484154475054").decode()
@@ -54,17 +57,17 @@ x=["❤️","🎉","✨","🪸","🎉","🎈","🎯"]
 g=choice(x)
 MAIN = [
     [
-        InlineKeyboardButton(text="☆ ​🇺​​🇵​​🇩​​🇦​​🇹​​🇪​ ☆" , url=f"https://t.me/BRANDRD_BOT"),
+        InlineKeyboardButton(text="☆ ᴜᴘᴅᴀᴛᴇ ☆" , url=f"https://t.me/BRANDRD_BOT"),
         InlineKeyboardButton(text="☆ ꜱᴜᴘᴘᴏʀᴛ ☆", url=f"https://t.me/BRANDED_WORLD"),
     ],
     [
         InlineKeyboardButton(
-            text=" ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ",
+            text="【+】 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 【+】",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text=" ʜᴇʟᴘ & ᴄᴍᴅs ", callback_data="HELP"),
+        InlineKeyboardButton(text="♥ ʜᴇʟᴘ & ᴄᴍᴅs ♥", callback_data="HELP"),
     ],
     [
         InlineKeyboardButton(text="☆ ʜᴇʀᴏᴋᴜ ☆", url=f"https://t.me/BRANDED_PAID_CC"),
@@ -82,7 +85,7 @@ X = [
 PNG_BTN = [
     [
          InlineKeyboardButton(
-             text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
+             text="【+】ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 【+】",
              url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
          ),
      ],
@@ -93,14 +96,14 @@ PNG_BTN = [
      ],
 ]
 SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('ʀᴇᴘᴏ' , url=f"https://telegra.ph//file/5374701ae0678848e9631.mp4")]])
-HELP_READ = "**➻ ᴜsᴀɢᴇ** /chatgpt <prompt>\n\n ʜᴇʟᴘ: `/chatgpt Space then write your question.`\n\n**➻ ᴜsᴀɢᴇ** : /generate <prompt> \nᴇxᴀᴍᴘʟᴇ: `/generate a book photo`  \n\n➻ ᴜsᴀɢᴇ /lyrics : ʀᴇᴘʟʏ ᴛᴏ ᴀᴜᴅɪᴏ ꜰɪʟᴇ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ʟʏʀɪᴄꜱ**➻ ᴜsᴀɢᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ @BRANDEDKING82**"
+HELP_READ = "**➻ ᴜsᴀɢᴇ** /chatgpt <prompt>\n\n ʜᴇʟᴘ: `/chatgpt Space then write your question.`\n\n**➻ ᴜsᴀɢᴇ** : /generate <prompt> \nᴇxᴀᴍᴘʟᴇ: `/generate a book photo`  \n\n➻ ᴜsᴀɢᴇ /lyrics : ʀᴇᴘʟʏ ᴛᴏ ᴀᴜᴅɪᴏ ꜰɪʟᴇ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ʟʏʀɪᴄꜱ**➻ ᴜsᴀɢᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ ᴏᴡɴᴇʀ : [ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/BRANDEDKING82) **"
 HELP_BACK = [
      [
-           InlineKeyboardButton(text="Qᴜᴇꜱᴛɪᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛɢᴘᴛ ᴄᴀɴ ꜱᴏʟᴠᴇ ", url=f"https://t.me/BRANDED_WORLD"),
+           InlineKeyboardButton(text="★ Qᴜᴇꜱᴛɪᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛɢᴘᴛ ᴄᴀɴ ꜱᴏʟᴠᴇ ★", url=f"https://t.me/BRANDED_WORLD"),
            
      ],
     [
-           InlineKeyboardButton(text="ʙᴀᴄᴋ ", callback_data="HELP_BACK"),
+           InlineKeyboardButton(text="★ ʙᴀᴄᴋ ★", callback_data="HELP_BACK"),
     ],
 ]
 
@@ -112,7 +115,7 @@ async def start(client, m: Message):
         accha = await m.reply_text(
                         text = f"{g}")
         await asyncio.sleep(0.2)
-        await accha.edit("sᴛᴀʀᴛɪɴɢ ᴀɪ ʙᴏᴛ 💘🌹..")
+        await accha.edit("sᴛᴀʀᴛɪɴɢ ᴄʜᴀᴛ ɢᴘᴛ ʙᴏᴛ 💘🌹..")
         await asyncio.sleep(0.2)
         await accha.delete()
         umm = await m.reply_sticker(
@@ -164,7 +167,7 @@ async def ping(client, message: Message):
         ms = (end-start).microseconds / 1000
         await message.reply_photo(
                              photo=START_IMG,
-                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ sᴘᴇᴇᴅ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [sᴀɪғ](https://t.me/SAIF_DICTATOR)||",
+                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ sᴘᴇᴇᴅ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/BRANDEDKING82)||",
                              reply_markup=InlineKeyboardMarkup(PNG_BTN),
        )
 
@@ -178,7 +181,7 @@ async def chat(bot, message):
         await bot.send_chat_action(message.chat.id, ChatAction.TYPING)
         if len(message.command) < 2:
             await message.reply_text(
-            "HELP:**\n\n`𝙿𝙷𝙻𝙴 /chatgpt 𝙻𝙸𝙺𝙷𝙾 𝚄𝚂𝙺𝙴 𝙱𝙰𝙰𝙳 𝚂𝙿𝙰𝙲𝙴 𝚃𝙷𝙴𝙽 𝙰𝙿𝙽𝙰 𝚀𝚄𝙴𝚂𝚃𝙸𝙾𝙽 𝙿𝚄𝙲𝙷𝙷𝙾`")
+            "HELP:**\n\n`ʟɪᴋʜᴏ ᴜꜱᴋᴇ ʙᴀᴀᴅ ꜱᴘᴀᴄᴇ ᴛʜᴇɴ ᴀᴀᴘɴᴀ Qᴜᴇꜱᴛɪᴏɴ ᴘᴜᴄʜᴏ`")
         else:
             a = message.text.split(' ', 1)[1]
             MODEL = "gpt-3.5-turbo"
@@ -221,7 +224,7 @@ async def chat(bot, message):
             "**Example:**\n\n`/generate image name what do you want`")
         else:
             a = message.text.split(' ', 1)[1]
-            response= openai.Image.create(prompt=a ,n=1,size="1792x1024")
+            response= openai.Image.create(prompt=a ,n=1,size="2192x1924")
             image_url = response['data'][0]['url']
             end_time = time.time()
             telegram_ping = str(round((end_time - start_time) * 1000, 3)) + " ᴍs"
@@ -252,7 +255,7 @@ async def chat(bot, message):
 s = bytearray.fromhex("68747470733a2f2f6769746875622e636f6d2f444158585445414d2f4441585843484154475054").decode()
 
 if SOURCE != s:
-    print("𝗸𝗮𝗿 𝗹𝗶𝘆𝗮 𝗲𝗱𝗶𝘁 𝗺𝗶𝗹 𝗴𝘆𝗮 𝘀𝘂𝗸𝗼𝗼𝗻 𝗷𝗲𝘀𝗮 𝘁𝗵𝗮 𝘄𝗲𝘀𝗮 𝗸𝗮𝗿𝗱𝗲 ` https://github.com/SAIFDEAD/AIBOT")
+    print("ᴋᴀʀ ʟɪʏᴀ ᴇᴅɪᴛᴍɪʟ ɢᴀʏᴀ ꜱᴜᴋᴏᴏɴ ᴊᴇꜱᴀ ᴛʜᴀ ᴡᴇꜱᴀ ᴋᴀʀᴅᴇ ` https://github.com/WCGKING/BRANDED-CHATGPT")
     sys.exit(1)  
 
 
@@ -267,10 +270,10 @@ if __name__ == "__main__":
         raise Exception("Your API_ID/API_HASH is not valid.")
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
-    print(f"""JOIN [💘💥𝗬𝗢𝗨𝗥 𝗦𝗔𝗜𝗙 𝗔𝗜 𝗕𝗢𝗧 𝗦𝗧𝗔𝗥𝗧💘💥]
-    🌺🌻𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗔𝗜𝗙 🌹💖
+    print(f"""JOIN [🍑 ⋆ ʏᴏᴜʀ ʙʀᴀɴᴅᴇᴅ ᴄʜᴀᴛɢᴘᴛ ʙᴏᴛ ꜱᴛᴀʀᴛ ⋆ 🍑]
+    ★·.·´¯`·.·★ᴛʜɪꜱ ʀᴇᴘᴏ ᴍᴀᴅᴇ ʙʏ ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ ★·.·´¯`·.·★
  {BOT_NAME} ɪs ᴀʟɪᴠᴇ!  
     """)
     idle()
     BRANDED.stop()
-    print("𝗦𝗔𝗜𝗙 𝗔𝗜 𝗕𝗢𝗧 𝗦𝗧𝗢𝗣 !")
+    print("*☆* ʙʀᴀɴᴅᴇᴅ ᴄʜᴀᴛɢᴘᴛ ʙᴏᴛ ꜱᴛᴀʀᴛ ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴜꜱɪɴɢ ᴛʜɪꜱ ʀᴇᴘᴏ @BARNDRD_BOT @BRANDED_WORLD @BRANDED_PAID_CC *☆* !")
