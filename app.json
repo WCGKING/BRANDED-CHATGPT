@@ -52,8 +52,7 @@
       "description": "ᴄʜᴀɴɴᴇʟ ɴᴀᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @",
       "required": true
     },
-    "API_ID": { "description": "ɢᴇᴛ ᴛʜɪꜱ ᴠᴀʟᴜᴇ ꜰʀᴏᴍ https://my.telegram.org
-",
+    "API_ID": { "description": "ɢᴇᴛ ᴛʜɪꜱ ᴠᴀʟᴜᴇ ꜰʀᴏᴍ https://my.telegram.org",
       "required": true
     },
     "API_HASH": {
