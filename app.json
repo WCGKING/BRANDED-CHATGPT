@@ -1,9 +1,9 @@
 
 {
   "name": "𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗖𝗛𝗔𝗧 𝗚𝗣𝗧", 
-  "logo": "https://telegra.ph/file/9430db94fe0b8aac4617e.jpg",
+  "logo": "https://te.legra.ph/file/bd049a544249ac936fa48.jpg",
   "keywords": [
-    "telegram", "AIBOT",
+    "telegram", "CHATGPTBOT",
     "python",
     "pyrogram",
     "WCGKING"   
@@ -18,47 +18,48 @@
     }
   ],
   "env": {
-    "BOT_TOKEN": { "description": "𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗗𝗔𝗟 𝗡𝗔𝗔 𝗕𝗢𝗧 𝗙𝗔𝗧𝗛𝗘𝗥 𝗦𝗘 𝗕𝗡𝗔 𝗟𝗢",
+    "BOT_TOKEN": { "description": "ᴀ ʙᴏᴛ'ꜱ ᴛᴏᴋᴇɴ ꜰʀᴏᴍ ʙᴏᴛꜰᴀᴛʜᴇʀ",
       "required": true
     },
     "OWNER_USERNAME": {
-      "description": "𝗧𝗘𝗥𝗔 𝗨𝗦𝗘𝗥𝗡𝗔𝗠𝗘 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @",
+      "description": "ʏᴏᴜʀ ᴜꜱᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @",
       "required": true
     },
     "OPENAI_KEY": {
-      "description": "𝗢𝗣𝗘𝗡 𝗔𝗜 𝗔𝗣𝗜 𝗞𝗘𝗬 𝗌𝖾𝖺𝗋𝖼𝗁 𝗈𝗇 𝖼𝗁𝗋𝗈𝗆𝖾 ",
+      "description": "𝗌𝖾𝖺𝗋𝖼𝗁 𝗈𝗇 𝖼𝗁𝗋𝗈𝗆𝖾 https://platform.openai.com/account/api-keys ",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "𝗕𝗢𝗧 𝗨𝗦𝗘𝗥𝗡𝗔𝗠𝗘 𝗗𝗔𝗟 𝗗𝗘 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @",
+      "description": "ʙᴏᴛ ᴜꜱᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @",
       "required": true
     },
     "BOT_NAME": {
-      "description": "𝗕𝗢𝗧 𝗡𝗔𝗠𝗘 𝗧𝗢 𝗗𝗔𝗟 𝗗𝗘 𝗕𝗛𝗔𝗜 𝗣𝗛𝗟𝗘.",
+      "description": "ᴀ ɴᴀᴍᴇ ꜰᴏʀ ʏᴏᴜʀ ᴍᴜꜱɪᴄ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ꜱᴘᴇᴄɪᴀʟ ᴄʜᴀʀᴀᴄᴛᴇʀꜱ ʙᴏᴛ ᴋᴏ ᴊʜᴀᴀᴛ ꜰᴀʀᴀᴋ ɴɪ ᴘᴀᴅᴇɢᴀ.",
       "required": true
     },
     "SUPPORT_GRP": {
-      "description": "𝗚𝗥𝗢𝗨𝗣 𝗡𝗔𝗠𝗘 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @",
+      "description": "ɢʀᴏᴜᴘ ɴᴀᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @",
       "required": true
     },
     "STKR": {
-      "description": "𝗦𝗧𝗜𝗞𝗘𝗥 𝗀𝗂𝖿 𝖻𝗇𝖺𝗅𝗈 ", "required": true
+      "description": "ᴀᴅᴅ ʏᴏᴜʀ ꜱᴛɪᴋᴇʀ", "required": true
     },
     "START_IMG": {
-      "description": "𝗦𝗧𝗔𝗥𝗧 𝗜𝗠𝗚 𝗗𝗔𝗟𝗢 ",
+      "description": "ᴛʜᴇ ᴘɪᴄ ᴡʜɪᴄʜ ᴡɪʟʟ ʙᴇ ꜱʜᴏᴡɴ ᴡʜᴇɴ ʏᴏᴜ /ꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ɪɴ ᴘʀɪᴠᴀᴛᴇ.",
       "required": true
     },
     "UPDATE_CHNL": {
-      "description": "𝗬𝗔𝗛𝗔 𝗧𝗘𝗥𝗔 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗗𝗔𝗟 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @",
+      "description": "ᴄʜᴀɴɴᴇʟ ɴᴀᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @",
       "required": true
     },
-    "API_ID": { "description": "𝗔𝗣𝗜 𝗜𝗗 𝗬𝗔𝗛𝗔 𝗣",
+    "API_ID": { "description": "ɢᴇᴛ ᴛʜɪꜱ ᴠᴀʟᴜᴇ ꜰʀᴏᴍ https://my.telegram.org
+",
       "required": true
     },
     "API_HASH": {
-      "description": "𝗔𝗣𝗜 𝗛𝗔𝗦𝗛 𝗗𝗔𝗟 𝗗𝗘 𝗕𝗔𝗦𝗦 𝗞𝗛𝗔𝗧𝗔𝗠",
+      "description": "ɢᴇᴛ ᴛʜɪꜱ ᴠᴀʟᴜᴇ ꜰʀᴏᴍ https://my.telegram.org",
       "required": true
     }
   },
-  "repository": "https://github.com/WCGKING/BRANDED-GPT"
+  "repository": "https://github.com/WCGKING/BRANDED-CHATGPT"
 }
